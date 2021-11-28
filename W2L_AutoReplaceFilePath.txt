@@ -14,7 +14,7 @@ DIR PATH
         $ pwd
         /c/Users/JohnConnor/Desktop/Main/Code
 
-      JohnConnor@DESKTOP-C7TVJ5Q MINGW64 ~/Desktop/Main/Code
-      $ sed 's;/;\\;g' <<<"C:/Users/JohnConnor/Desktop/Main/Code"
-      C:\Users\JohnConnor\Desktop\Main\Code
+        JohnConnor@DESKTOP-C7TVJ5Q MINGW64 ~/Desktop/Main/Code
+        $ sed 's;/;\\;g' <<<"C:/Users/JohnConnor/Desktop/Main/Code"
+        C:\Users\JohnConnor\Desktop\Main\Code
 
