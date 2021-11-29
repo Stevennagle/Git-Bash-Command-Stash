@@ -1,0 +1,6 @@
+/* Fix remote-repo/local repo mis-match after merge conflict was "resolved" */  
+
+git commit -m "fixed merge conflict"
+
+git reset --hard test-about
+git push --force origin main
