@@ -1,2 +1,2 @@
 # Git-Bash-Command-Stash
-A place to store my commands from multiple environments for later use.
+A place to store my commands for later use.
